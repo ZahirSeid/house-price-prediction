@@ -23,12 +23,12 @@ The dataset contains 79 explanatory variables that describe various aspects of r
 
 Run the Jupyter notebook to explore the data and see the model training process:
 ```bash
-jupyter notebook notebooks/house_price_prediction.ipynb
+jupyter notebook notebook/house_price_prediction.ipynb
 ```
 
 You can also run the prediction script directly:
 ```bash
-python scripts/prediction.py
+python script/prediction.py
 ```
 
 ## Results
